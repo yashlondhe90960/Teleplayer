@@ -1,4 +1,4 @@
-# teleplay
+# teleplayer
 
 A new Flutter project.
 
